@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+
+<body>
+
+<div id="header">
+<h1>京东</h1>
+</div>
+
+<div id="nav">
+London<br>
+Paris<br>
+Tokyo<br>
+</div>
+
+<div id="section">
+<h2>京东</h2>
+<p style="font-family:arial;color:red;">京东（JD.com）是中国最大的自营式电商企业，2015年第一季度在中国自营式B2C电商市场的占有率为56.3%。目前，京东集
+
+团旗下设有京东商城、京东金融、拍拍网、京东智能、O2O及海外事业部。京东创始人刘强东担任京东集团CEO。 
+
+2014年5月22日，京东在纳斯达克挂牌，股票代码：JD。是成为仅次于阿里巴巴、腾讯、百度的中国第四大互联网上市公司 。2014年11月20日，在浙江乌镇出席首届世界
+
+互联网大会的中共中央政治局委员、国务院副总理马凯介绍，阿里巴巴、腾讯、百度、京东4家企业进入全球互联网公司十强。2015年11月12日，京东商城入选MSCI中国指
+
+数。2016年6月8日，《2016年BrandZ全球最具价值品牌百强榜》公布，京东首次进入百强榜，排名第99。2016年6月20日，京东与沃尔玛达成深度战略合作。作为合作的一
+
+部分，沃尔玛旗下1号店将并入京东。消息宣布后，京东股价上涨近5%。2017年1月，中国银联同京东金融签署战略合作协议，并宣布后者旗下支付公司正式成为银联收单
+
+成员机构。2017年10月京东物流首个全流程无人仓正式亮相。</p>
+</div>
+
+<div id="footer">
+Copyright ? W3Schools.com
+</div>
+
+</body>
+</html>
+
+<table>
+<tr>
+  <td>你好，请登录</td>
+  <td>我的订单</td>
+  <td>我的京东</td>
+</tr>
+
+
+
+<img src="https:/c/p1.ss.qhmg.com/t0162dffb6d4c3192be.png" width="300" height="120" />
+
+<body background="/i/eg_background.jpg">
+
+<h3>图像背景</h3>
+
+<p>Table with frame="box":</p>
+<table frame="box">
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+</table>
+
+<p>Table with frame="above":</p>
+<table frame="above">
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+</table>
+
+<p>Table with frame="below":</p>
+<table frame="below">
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+</table>
+
+<p>Table with frame="hsides":</p>
+<table frame="hsides">
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+</table>
+
+<p>Table with frame="vsides":</p>
+<table frame="vsides">
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+</table>
+
+<a href="http://www.w3school.com.cn">
+123456789</a>
+
+</body>
+</html>
